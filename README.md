@@ -35,6 +35,7 @@ Run `make` and locate the compiled artifact in the dist/ directory.
 ### Quiz
 
 To compile the dictionary, run:
+
 ```shell
 $ make
 ```
