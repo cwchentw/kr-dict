@@ -2,7 +2,7 @@
 
 CWD=$(CDPATH='' cd -- "$(dirname -- "$0")" && pwd) || exit 1
 
-CSV_FILE="${CWD}/kr-en.csv"
+CSV_FILE="${CWD}/data/kr-en.csv"
 if ! [ -f "$CSV_FILE" ]; then
     echo "No CSV file: $CSV_FILE" >&2
     exit 1

@@ -56,6 +56,12 @@ $ ./bin/kr-dict-quiz noun
 
 Special thanks to the **National Institute of Korean Language (국립국어원)** for providing the original vocabulary list (*한국어 학습용 어휘 목록*).
 
+## 🤝 Contributing
+
+We keep our dictionary in `data/kr-en.csv`. At the moment it’s intentionally minimal, serving as a proof of concept. Contributors are warmly invited to expand the lexicon—especially with entries drawn from beginner‑level Korean learning materials.
+
+👉 **No coding required**: If you can read and edit a CSV file, you’re already able to contribute.
+
 ## License
 
 Copyright (c) 2026 BytBard. Licensed under the MIT License.
