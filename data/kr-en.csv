@@ -1,9 +1,9 @@
 word,pos,loanword,trans
 가게,noun,,"shop, store"
-가방,noun,,"bag"
+가방,noun,,bag
 가수,noun,歌手,singer
 가슴,noun,,chest
-가운데,noun,,"center; middle"
+가운데,noun,,center; middle
 가을,noun,,autumn
 가족,noun,家族,family
 간호사,noun,看護師,nurse
@@ -15,8 +15,8 @@ word,pos,loanword,trans
 개,noun,,dog
 거리,noun,,street; road; avenue
 거울,noun,,mirror
-걱정,noun,,"worry; concern; care"
-건강,noun,健康,"health; wellbeing"
+걱정,noun,,worry; concern; care
+건강,noun,健康,health; wellbeing
 건물,noun,建物,building; structure; edifice
 검은색,noun,,black
 게임,noun,game,game
@@ -34,6 +34,11 @@ word,pos,loanword,trans
 고등학생,noun,高等學生,high school student
 고양이,noun,,cat
 고향,noun,故鄕,hometown
+곳,noun,,place; spot; location
+공,noun,,ball
+공부,noun,工夫,study
+공원,noun,公園,park
+공중전화,noun,公衆電話,pay phone
 나,pronoun,,I (informal)
 저,pronoun,,I (formal)
 너,pronoun,,you (informal)
