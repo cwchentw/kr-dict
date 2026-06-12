@@ -1,32 +1,32 @@
 word,pos,loanword,trans
 가게,noun,,"shop, store"
-가방,noun,,"bag, sack"
+가방,noun,,bag
 가수,noun,歌手,singer
 가슴,noun,,chest
-가운데,noun,,"center, the middle"
+가운데,noun,,center; middle
 가을,noun,,autumn
 가족,noun,家族,family
 간호사,noun,看護師,nurse
 갈비,noun,,rib
 감기,noun,感氣,influenza
 감사,noun,感謝,thanks
-값,noun,,value
+값,noun,,price
 강,noun,江,river
 개,noun,,dog
-거리,noun,,distance
+거리,noun,,street; road; avenue
 거울,noun,,mirror
-걱정,noun,,"worry, anxiety"
-건강,noun,健康,"health, fitness"
-건물,noun,建物,building
+걱정,noun,,worry; concern; care
+건강,noun,健康,health; wellbeing
+건물,noun,建物,building; structure; edifice
 검은색,noun,,black
 게임,noun,game,game
 겨울,noun,,winter
 결혼,noun,結婚,marriage
 결혼식,noun,結婚式,wedding
-경찰,noun,警察,the police
-경찰관,noun,警察官,a police officer
+경찰,noun,警察,police; policing
+경찰관,noun,警察官,police officer; cop
 경찰서,noun,警察署,police station
-경치,noun,景致,scenery
+경치,noun,景致,scenery; scene; view
 계란,noun,鷄卵,egg
 계절,noun,季節,season
 고기,noun,,"meat, fish"
@@ -34,6 +34,26 @@ word,pos,loanword,trans
 고등학생,noun,高等學生,high school student
 고양이,noun,,cat
 고향,noun,故鄕,hometown
+곳,noun,,place; spot; location
+공,noun,,ball
+공부,noun,工夫,study
+공원,noun,公園,park
+공중전화,noun,公衆電話,pay phone
+공책,noun,空冊,notebook
+공항,noun,空港,airport
+공휴일,noun,公休日,public holiday
+과,noun,課,department; section
+과일,noun,,fruit
+과자,noun,菓子,snack
+교과서,noun,敎科書,textbook
+교수,noun,敎授,teaching; instruction
+교실,noun,敎室,classroom
+교통,noun,交通,transportation; traffic
+교회,noun,敎會,church
+구경,noun,,sightseeing
+구두,noun,,shoes
+구름,noun,,cloud
+구월,noun,九月,September
 군인,noun,軍人,soldier
 귀,noun,,ear
 그날,noun,,that day; the day
