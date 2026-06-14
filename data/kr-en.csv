@@ -1,150 +1,150 @@
-word,pos,loanword,trans
-가게,noun,,"shop, store"
-가방,noun,,bag
-가수,noun,歌手,singer
-가슴,noun,,chest
-가운데,noun,,center; middle
-가을,noun,,autumn
-가족,noun,家族,family
-간호사,noun,看護師,nurse
-갈비,noun,,rib
-감기,noun,感氣,influenza
-감사,noun,感謝,thanks
-값,noun,,price
-강,noun,江,river
-개,noun,,dog
-거리,noun,,street; road; avenue
-거울,noun,,mirror
-걱정,noun,,worry; concern; care
-건강,noun,健康,health; wellbeing
-건물,noun,建物,building; structure; edifice
-검은색,noun,,black
-게임,noun,game,game
-겨울,noun,,winter
-결혼,noun,結婚,marriage
-결혼식,noun,結婚式,wedding
-경찰,noun,警察,police; policing
-경찰관,noun,警察官,police officer; cop
-경찰서,noun,警察署,police station
-경치,noun,景致,scenery; scene; view
-계란,noun,鷄卵,egg
-계절,noun,季節,season
-고기,noun,,"meat, fish"
-고등학교,noun,高等學校,high school
-고등학생,noun,高等學生,high school student
-고양이,noun,,cat
-고향,noun,故鄕,hometown
-곳,noun,,place; spot; location
-공,noun,,ball
-공부,noun,工夫,study
-공원,noun,公園,park
-공중전화,noun,公衆電話,pay phone
-공책,noun,空冊,notebook
-공항,noun,空港,airport
-공휴일,noun,公休日,public holiday
-과,noun,課,department; section
-과일,noun,,fruit
-과자,noun,菓子,snack
-교과서,noun,敎科書,textbook
-교수,noun,敎授,teaching; instruction
-교실,noun,敎室,classroom
-교통,noun,交通,transportation; traffic
-교회,noun,敎會,church
-구경,noun,,sightseeing
-구두,noun,,shoes
-구름,noun,,cloud
-구월,noun,九月,September
-나,pronoun,,I (informal)
-저,pronoun,,I (formal)
-너,pronoun,,you (informal)
-거,pronoun,,this; that (something close to the listener)
-거기,pronoun,,there
-그,pronoun,,that (people who are not the speaker or listener)
-그거,pronoun,,that (something close to the listener)
-우리,pronoun,,we / us (informal)
-저희,pronoun,,we / us (formal)
-당신,pronoun,,"you (formal, polite; often in writing)"
-그녀,pronoun,,she
-그분,pronoun,,"he/she (formal, respectful)"
-그들,pronoun,,they (those people)
-저것,pronoun,,that thing (over there)
-이것,pronoun,,this thing
-그곳,pronoun,,that place
-저곳,pronoun,,that place (farther away)
-이곳,pronoun,,this place
-누구,pronoun,,who
-아무,pronoun,,anyone / nobody (depending on context)
-뭐,pronoun,,what (informal)
-무엇,pronoun,,what (formal)
-언제,pronoun,,when
-어디,pronoun,,where
-어떻게,pronoun,,how
-왜,pronoun,,why
-무슨,pronoun,,what kind of / which
-어느,pronoun,,which (one)
-얼마,pronoun,,how much / how many
-몇,pronoun,,how many
-어떤,pronoun,,what kind of / which
-누구,pronoun,,who
-이,determiner,,this
-그,determiner,,that
-저,determiner,,that (farther away)
-모든,determiner,,all / every
-각,determiner,,each
-어느,determiner,,which / some
-몇,determiner,,few / some / how many
-어떤,determiner,,what kind of / which
-이런,determiner,,this kind of
-그런,determiner,,that kind of
-저런,determiner,,that kind of (farther away)
-어떤,determiner,,certain / some
-은,particle,,(topic indicator)
-는,particle,,(topic indicator)
-이,particle,,(subject indicator)
-가,particle,,(subject indicator)
-을,particle,,(object indicator)
-를,particle,,(object indicator)
-에,particle,,(locative indicator)
-에서,particle,,(locative indicator: place of action)
-에게,particle,,(dative indicator: to someone)
-한테,particle,,"(dative indicator: to someone, informal)"
-와,particle,,(conjunctive particle: and)
-과,particle,,"(conjunctive particle: and, formal)"
-하고,particle,,(conjunctive particle: and/with)
-랑,particle,,"(conjunctive particle: and/with, informal)"
-으로,particle,,(directional/means indicator)
-로,particle,,"(directional/means indicator, variant)"
-까지,particle,,"(limit indicator: until, up to)"
-부터,particle,,(starting point indicator: from)
-도,particle,,"(additive particle: also, too)"
-만,particle,,(restrictive particle: only)
-그리고,conjunction,,and / and then
-그러나,conjunction,,but / however
-하지만,conjunction,,but
-그래서,conjunction,,so / therefore
-그러므로,conjunction,,thus / hence
-그런데,conjunction,,by the way / however
-또한,conjunction,,also / in addition
-또,conjunction,,also / again
-따라서,conjunction,,accordingly / consequently
-그러니까,conjunction,,so / that is why
-하나,numeral-native,,one
-둘,numeral-native,,two
-셋,numeral-native,,three
-넷,numeral-native,,four
-다섯,numeral-native,,five
-여섯,numeral-native,,six
-일곱,numeral-native,,seven
-여덟,numeral-native,,eight
-아홉,numeral-native,,nine
-열,numeral-native,,ten
-일,numeral-sino,,one
-이,numeral-sino,,two
-삼,numeral-sino,,three
-사,numeral-sino,,four
-오,numeral-sino,,five
-육,numeral-sino,,six
-칠,numeral-sino,,seven
-팔,numeral-sino,,eight
-구,numeral-sino,,nine
-십,numeral-sino,,ten
+hangul,hanja,pos,loanword,trans
+가게,,noun,,"shop, store"
+가방,,noun,,bag
+가수,歌手,noun,,singer
+가슴,,noun,,chest
+가운데,,noun,,center; middle
+가을,,noun,,autumn
+가족,家族,noun,,family
+간호사,看護師,noun,,nurse
+갈비,,noun,,rib
+감기,感氣,noun,,influenza
+감사,感謝,noun,,thanks
+값,,noun,,price
+강,江,noun,,river
+개,,noun,,dog
+거리,,noun,,street; road; avenue
+거울,,noun,,mirror
+걱정,,noun,,worry; concern; care
+건강,健康,noun,,health; wellbeing
+건물,建物,noun,,building; structure; edifice
+검은색,,noun,,black
+게임,,noun,game,game
+겨울,,noun,,winter
+결혼,結婚,noun,,marriage
+결혼식,結婚式,noun,,wedding
+경찰,警察,noun,,police; policing
+경찰관,警察官,noun,,police officer; cop
+경찰서,警察署,noun,,police station
+경치,景致,noun,,scenery; scene; view
+계란,鷄卵,noun,,egg
+계절,季節,noun,,season
+고기,,noun,,"meat, fish"
+고등학교,高等學校,noun,,high school
+고등학생,高等學生,noun,,high school student
+고양이,,noun,,cat
+고향,故鄕,noun,,hometown
+곳,,noun,,place; spot; location
+공,,noun,,ball
+공부,工夫,noun,,study
+공원,公園,noun,,park
+공중전화,公衆電話,noun,,pay phone
+공책,空冊,noun,,notebook
+공항,空港,noun,,airport
+공휴일,公休日,noun,,public holiday
+과,課,noun,,department; section
+과일,,noun,,fruit
+과자,菓子,noun,,snack
+교과서,敎科書,noun,,textbook
+교수,敎授,noun,,teaching; instruction
+교실,敎室,noun,,classroom
+교통,交通,noun,,transportation; traffic
+교회,敎會,noun,,church
+구경,,noun,,sightseeing
+구두,,noun,,shoes
+구름,,noun,,cloud
+구월,九月,noun,,September
+나,,pronoun,,I (informal)
+저,,pronoun,,I (formal)
+너,,pronoun,,you (informal)
+거,,pronoun,,this; that (something close to the listener)
+거기,,pronoun,,there
+그,,pronoun,,that (people who are not the speaker or listener)
+그거,,pronoun,,that (something close to the listener)
+우리,,pronoun,,we / us (informal)
+저희,,pronoun,,we / us (formal)
+당신,,pronoun,,"you (formal, polite; often in writing)"
+그녀,,pronoun,,she
+그분,,pronoun,,"he/she (formal, respectful)"
+그들,,pronoun,,they (those people)
+저것,,pronoun,,that thing (over there)
+이것,,pronoun,,this thing
+그곳,,pronoun,,that place
+저곳,,pronoun,,that place (farther away)
+이곳,,pronoun,,this place
+누구,,pronoun,,who
+아무,,pronoun,,anyone / nobody (depending on context)
+뭐,,pronoun,,what (informal)
+무엇,,pronoun,,what (formal)
+언제,,pronoun,,when
+어디,,pronoun,,where
+어떻게,,pronoun,,how
+왜,,pronoun,,why
+무슨,,pronoun,,what kind of / which
+어느,,pronoun,,which (one)
+얼마,,pronoun,,how much / how many
+몇,,pronoun,,how many
+어떤,,pronoun,,what kind of / which
+누구,,pronoun,,who
+이,,determiner,,this
+그,,determiner,,that
+저,,determiner,,that (farther away)
+모든,,determiner,,all / every
+각,,determiner,,each
+어느,,determiner,,which / some
+몇,,determiner,,few / some / how many
+어떤,,determiner,,what kind of / which
+이런,,determiner,,this kind of
+그런,,determiner,,that kind of
+저런,,determiner,,that kind of (farther away)
+어떤,,determiner,,certain / some
+은,,particle,,(topic indicator)
+는,,particle,,(topic indicator)
+이,,particle,,(subject indicator)
+가,,particle,,(subject indicator)
+을,,particle,,(object indicator)
+를,,particle,,(object indicator)
+에,,particle,,(locative indicator)
+에서,,particle,,(locative indicator: place of action)
+에게,,particle,,(dative indicator: to someone)
+한테,,particle,,"(dative indicator: to someone, informal)"
+와,,particle,,(conjunctive particle: and)
+과,,particle,,"(conjunctive particle: and, formal)"
+하고,,particle,,(conjunctive particle: and/with)
+랑,,particle,,"(conjunctive particle: and/with, informal)"
+으로,,particle,,(directional/means indicator)
+로,,particle,,"(directional/means indicator, variant)"
+까지,,particle,,"(limit indicator: until, up to)"
+부터,,particle,,(starting point indicator: from)
+도,,particle,,"(additive particle: also, too)"
+만,,particle,,(restrictive particle: only)
+그리고,,conjunction,,and / and then
+그러나,,conjunction,,but / however
+하지만,,conjunction,,but
+그래서,,conjunction,,so / therefore
+그러므로,,conjunction,,thus / hence
+그런데,,conjunction,,by the way / however
+또한,,conjunction,,also / in addition
+또,,conjunction,,also / again
+따라서,,conjunction,,accordingly / consequently
+그러니까,,conjunction,,so / that is why
+하나,,numeral-native,,one
+둘,,numeral-native,,two
+셋,,numeral-native,,three
+넷,,numeral-native,,four
+다섯,,numeral-native,,five
+여섯,,numeral-native,,six
+일곱,,numeral-native,,seven
+여덟,,numeral-native,,eight
+아홉,,numeral-native,,nine
+열,,numeral-native,,ten
+일,,numeral-sino,,one
+이,,numeral-sino,,two
+삼,,numeral-sino,,three
+사,,numeral-sino,,four
+오,,numeral-sino,,five
+육,,numeral-sino,,six
+칠,,numeral-sino,,seven
+팔,,numeral-sino,,eight
+구,,numeral-sino,,nine
+십,,numeral-sino,,ten

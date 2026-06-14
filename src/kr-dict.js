@@ -39,7 +39,7 @@ function search (query, column, mode) {
 }
 
 function lookUp (query) {
-    return search(query, "word", "exact");
+    return search(query, "hangul", "exact");
 }
 
 function reverseLookUp (query) {
