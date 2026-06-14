@@ -41,9 +41,15 @@ for my $row (@csv_data) {
     tie my %word_data, 'Tie::IxHash';
 
     $word_data{'hangul'} = ${$row}[0];
-    $word_data{'hanja'} = ${$row}[1];
+
+    my $hanja = $word_data{'hanja'};
+    $word_data{'hanja'} = ${$row}[1] if ($hanja);
+
     $word_data{'pos'} = ${$row}[2];
-    $word_data{'loanword'} = ${$row}[3];
+
+    my $loanword = $word_data{'loanword'};
+    $word_data{'loanword'} = ${$row}[3] if ($loanword);
+
     $word_data{'trans'} = ${$row}[4];
 
     push @json_data, \%word_data;
