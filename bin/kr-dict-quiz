@@ -57,7 +57,8 @@ for my $lexicon (shuffle @{$json}) {
     say $lexicon->{'trans'};
     print 'Press Enter to show answer';
     readline(*STDIN);
-    print $lexicon->{'word'} . " ";
+    print $lexicon->{'hangul'} . " ";
+    print $lexicon->{'hanja'} . " " if ($lexicon->{'hanja'});
     print $lexicon->{'loanword'} . " " if ($lexicon->{'loanword'});
     print $lexicon->{'pos'} . "\n";
     say "";
