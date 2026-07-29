@@ -30,6 +30,7 @@ hangul,hanja,pos,loanword,trans
 계란,鷄卵,noun,,egg
 계절,季節,noun,,season
 고기,,noun,,"meat, fish"
+학생,學生,noun,,student; learner
 고등학교,高等學校,noun,,high school
 고등학생,高等學生,noun,,high school student
 고양이,,noun,,cat
@@ -39,6 +40,7 @@ hangul,hanja,pos,loanword,trans
 공부,工夫,noun,,study
 공원,公園,noun,,park
 공중전화,公衆電話,noun,,pay phone
+은행,銀行,noun,,bank
 공책,空冊,noun,,notebook
 공항,空港,noun,,airport
 공휴일,公休日,noun,,public holiday
@@ -48,6 +50,7 @@ hangul,hanja,pos,loanword,trans
 교과서,敎科書,noun,,textbook
 교수,敎授,noun,,teaching; instruction
 교실,敎室,noun,,classroom
+도서관,圖書館,noun,,library
 교통,交通,noun,,transportation; traffic
 교회,敎會,noun,,church
 구경,,noun,,sightseeing
@@ -63,6 +66,9 @@ hangul,hanja,pos,loanword,trans
 그림,,noun,,drawing; painting; sketch
 극장,劇場,noun,,theater; cinema
 근처,近處,noun,,vicinity; neighborhood
+오늘,,noun,,today
+수요일,水曜日,noun,,Wednesday
+목요일,木曜日,noun,,Thursday
 금요일,金曜日,noun,,Friday
 급,級,noun,,rank; position
 기분,氣分,noun,,mood; feelings
@@ -80,10 +86,15 @@ hangul,hanja,pos,loanword,trans
 우유,牛乳,noun,,milk
 라면,,noun,,instant noodles; ramen (much less common)
 구두,,noun,,shoes
+이름,,noun,,name
 나,,pronoun,,I (informal)
 저,,pronoun,,I (formal)
+당신,當身,pronoun,,you (formal)
 너,,pronoun,,you (informal)
+제,,pronoun,,my (formal); an abbreviated word for '저의'
+내,,pronoun,,my (informal); an abbreviated word for '나의'
 거,,pronoun,,this; that (something close to the listener)
+여기,,pronoun,,here; this
 거기,,pronoun,,there
 그,,pronoun,,that (people who are not the speaker or listener)
 그거,,pronoun,,that (something close to the listener)
